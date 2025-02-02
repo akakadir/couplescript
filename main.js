@@ -140,4 +140,4 @@
     }
 
     setInterval(createHeart, 300); // <-- Speed
-    // End
+    // Endscript last upd. 02-02-25
