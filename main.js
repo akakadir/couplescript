@@ -21,7 +21,7 @@
     // begin Fetching .md file
     async function fetchMarkdownFile() {
       try {
-        const response = await fetch('https://files.catbox.moe/prm472.md'); //  <-- Url
+        const response = await fetch('https://files.catbox.moe/v1zyf7.md'); //  <-- Source Url
         if (!response.ok) throw new Error('Dosya bulunamadı.');
         return await response.text();
       } catch (error) {
