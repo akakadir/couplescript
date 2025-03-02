@@ -1,5 +1,5 @@
 Foto | Galeri : [ask.png](https://files.catbox.moe/ndczx1.png), [ask2.png](https://files.catbox.moe/bs6aj9.png), 
-[spastik.mp4](https://files.catbox.moe/sl0r91.mp4), [kahveland.jpg](https://files.catbox.moe/i8od74.jpeg), [seviyorum.mp4](https://files.catbox.moe/7knbxd.mp4) [fav_foto.jpeg](https://files.catbox.moe/5r1thr.jpeg)
+[spastik.mp4](https://files.catbox.moe/sl0r91.mp4), [kahveland.jpg](https://files.catbox.moe/i8od74.jpeg), [seviyorum.mp4](https://files.catbox.moe/7knbxd.mp4),[fav_foto.jpeg](https://files.catbox.moe/5r1thr.jpeg)
 
 ⠀⠀⠀⠀⣀⡤⢤⣄⠀⣠⡤⣤⡀⠀⠀⠀
 ⠀⠀⢀⣴⢫⠞⠛⠾⠺⠟⠛⢦⢻⣆⠀⠀
