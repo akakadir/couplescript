@@ -21,7 +21,7 @@
     // begin Fetching .md file
     async function fetchMarkdownFile() {
       try {
-        const response = await fetch('love.md'); //  <-- Source Url
+        const response = await fetch('https://raw.githubusercontent.com/akakadir/lovescript/refs/heads/main/love.md'); //  <-- Source Url
         if (!response.ok) throw new Error('Dosya bulunamadı.');
         return await response.text();
       } catch (error) {
